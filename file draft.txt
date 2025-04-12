@@ -1,0 +1,12 @@
+langchain
+langchain-google-genai
+python-docx
+google-generativeai
+fastapi
+uvicorn
+google-generativeai
+faiss-cpu
+pydantic
+python-docx
+numpy
+langchain_community
